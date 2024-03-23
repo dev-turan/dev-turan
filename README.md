@@ -21,6 +21,9 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-turan&" alt="dev-turan" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-turan&show_icons=true" alt="dev-turan" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-turan&layout=compact&hide=html" alt="dev-turan" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 

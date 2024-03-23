@@ -18,12 +18,9 @@
   <a href="https://linkedin.com/in/www.linkedin.com/in/dev-turan-a19538261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dev-turan-a19538261/" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/leetcode.com/dev_turan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/dev_turan/" height="30" width="40" /></a>
 </p>
+
 <br>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-turan&" alt="dev-turan" /></p>
-<br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-turan&show_icons=true" alt="dev-turan" /></p>
-<br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-turan&layout=compact&hide=html" alt="dev-turan" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -42,6 +39,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
+
+<br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-turan&show_icons=true" alt="dev-turan" /></p>
 
 <h4 align="left">Backend Development:</h4>
 <p align="left">
@@ -62,6 +62,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <!-- Add more software logos as needed -->
 </p>
+
+<br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-turan&layout=compact&hide=html" alt="dev-turan" /></p>
 
 <h4 align="left">Operating Systems:</h4>
 <p align="left">

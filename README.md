@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dev Turan</h1>
 <h3 align="center">Aspiring WebDeveloper | CyberSecurity Enthusiast | BE.CSE Student at Chitkara University | Ex.P.DAVian</h3>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 - 🔭 I’m currently working on **cybersecurity tools such as Maltego, Wireshark, and Nmap**
 

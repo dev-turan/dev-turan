@@ -65,7 +65,7 @@
 
 <h4 align="left">Operating Systems:</h4>
 <p align="left">
-  <img src="https://www.freeiconspng.com/uploads/cute-ball-windows-icon-png-16.png" width="350" alt="Cute Ball Windows icon png" alt="Windows" width="40" height="40"/>
+  <img src="https://www.freeiconspng.com/uploads/cute-ball-windows-icon-png-16.png" alt="Cute Ball Windows icon png" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40"/>
   <!-- Add more OS logos as needed -->

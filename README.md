@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
-- 🔭 I’m currently working on **cybersecurity tools such as Maltego, Wireshark, and Nmap**
+- 🔭 I’m currently working on **Kali Linux**
 
 - 🌱 I’m currently learning **Cloud Computing**
 
@@ -65,7 +65,7 @@
 
 <h4 align="left">Operating Systems:</h4>
 <p align="left">
-  <img src="https://www.iconfinder.com/icons/5367251/windows_windows_7_icon" alt="Windows" width="40" height="40"/>
+  <img src="https://www.freeiconspng.com/uploads/cute-ball-windows-icon-png-16.png" width="350" alt="Cute Ball Windows icon png" alt="Windows" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40"/>
   <!-- Add more OS logos as needed -->

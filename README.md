@@ -12,13 +12,15 @@
 - 👯 I’m looking to collaborate on **Cloud-based projects**
 
 - 🤝 I’m looking for help with **MERN Stack Projects**
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-turan&" alt="dev-turan" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/dev-turan-a19538261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dev-turan-a19538261/" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/leetcode.com/dev_turan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/dev_turan/" height="30" width="40" /></a>
 </p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-turan&" alt="dev-turan" /></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 

@@ -12,6 +12,7 @@
 - 👯 I’m looking to collaborate on **Cloud-based projects**
 
 - 🤝 I’m looking for help with **MERN Stack Projects**
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-turan&" alt="dev-turan" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -69,4 +70,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-turan&show_icons=true" alt="dev-turan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-turan&" alt="dev-turan" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-turan&" alt="dev-turan" /></p>

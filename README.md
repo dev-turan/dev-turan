@@ -60,6 +60,8 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://media.imgcdn.org/repo/2023/03/cisco-packet-tracer/Cisco-Packet-Tracer.png" alt="packet_tracer" width="40" height="40"/>
+
   <!-- Add more software logos as needed -->
 </p>
 
